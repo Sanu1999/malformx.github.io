@@ -1,2 +1,0 @@
-# malformx.github.io
-blog
