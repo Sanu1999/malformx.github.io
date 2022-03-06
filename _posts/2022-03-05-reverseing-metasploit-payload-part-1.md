@@ -13,8 +13,7 @@ Hello fellas. This is the first blog that I've ever created. This blog is totall
 So, what the hell am i going to talk about then? This blog is totally about my analogy about that particular payload i mentioned. As a CTF player i used this payload a lot. And recently it made me wonder how this thing works. I mean a normal reverse shell can be acquired by simply spawing a cmd/powershell process. But a meterpreter who can also do lateral movement on the target machine? It is a whole different story. So i started seeing what is really happening under the hood. And i thought about archiving my understanding through blogging. This is actually going to be a series. So i'll post my findings as one thing at a time, or maybe two. Okay, maybe three, three at a time.
 
 > I will try to understand and explain this mess deeply as much as possible. But if i failed to include anything here, those things would be mostly available in Google.
->
-> {: .prompt-note }
+>{: .prompt-note }
 
 So let's dive in deeper.
 
